@@ -1,0 +1,1 @@
+$box.innerHTML="hello world"
